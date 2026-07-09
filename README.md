@@ -4,7 +4,7 @@
 Full Stack Web Developer
 </h3>
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+<img src="https://github.com/SaiedAlMasud/SaiedAlMasud/blob/main/Github%20Banner%20Image.png" width="100%" />
 
 ---
 
