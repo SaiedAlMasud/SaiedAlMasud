@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saied Al Masud</h1>
 
-<!--
-**SaiedAlMasud/SaiedAlMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Web Developer
+</h3>
 
-Here are some ideas to get you started:
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science & Engineering undergraduate passionate about building modern full-stack web applications.
+
+I enjoy developing responsive user interfaces, designing REST APIs, and deploying scalable applications using modern JavaScript technologies.
+
+Currently seeking opportunities where I can contribute as a Full Stack Web Developer while continuously improving my skills.
+
+---
+
+## 🚀 Current Activities
+
+- 🌱 Exploring Next.js App Router
+- 💻 Building scalable MERN Stack applications
+- 🔐 Learning Authentication & Authorization
+- 🚀 Improving web performance and UI/UX
+- 📚 Practicing Data Structures & Algorithms
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,php" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saied-al-masud-ankon/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://saied-al-masud-portfolio.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SaiedAlMasud)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
