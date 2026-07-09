@@ -72,14 +72,5 @@ Currently seeking opportunities where I can contribute as a Full Stack Web Devel
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiedAlMasud&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiedAlMasud&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SaiedAlMasud&theme=tokyonight)
-
----
 
 ⭐ Thanks for visiting my profile!
