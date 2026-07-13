@@ -71,15 +71,6 @@ Currently seeking opportunities where I can contribute as a Full Stack Web Devel
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SaiedAlMasud)
 
 ---
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SaiedAlMasud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
